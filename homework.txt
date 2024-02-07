@@ -1,0 +1,20 @@
+1-) Reklaman blocklarni o’chirish
+
+2-) Drama janrni komediyaga o’zgartirish
+
+3-) Orqa fonni o’zgartirish
+
+4-) Seriallarni javascript dagi massiv yordamida ko’rsating
+
+5-) Xar bir seriallni o’z nomeri bo’lsin
+
+6-) Bitta funksiya yozing, qachonki submit knopkani bossganda sahifa qayta yuklanmasligi kerak. Va inputga yozilgan serialni seriesDB.series massivga qo’shing. Inputni ichidagi qiymatni olish uchun input.value yordamida oling.
+
+7-) Agarda serialni nomi 18ta xarfdan ko’p bo’lsa uni kesib … belgini qo’ying.
+
+8-) Agarda formada checkbox done ya’ni ✅ belgisi qo’yilgan bo’lsa, consolega “Sevimli serial qo’shilidi” habarni ko’rsating.
+
+9-) Hamma seriallar alfavit ketma ketligida bo’lsin. 
+
+Ixtiyoriy vazifa:
+10-) Ahlat qutisiga bosilganda 🗑 usha serial o’chish kerak.
